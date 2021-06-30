@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GreenHouseReact/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/GreenHouseReact/static/js/main.f3daef8b.chunk.js",
+    "main.js.map": "/GreenHouseReact/static/js/main.f3daef8b.chunk.js.map",
+    "runtime-main.js": "/GreenHouseReact/static/js/runtime-main.ac654c7c.js",
+    "runtime-main.js.map": "/GreenHouseReact/static/js/runtime-main.ac654c7c.js.map",
+    "static/js/2.cfe63f6f.chunk.js": "/GreenHouseReact/static/js/2.cfe63f6f.chunk.js",
+    "static/js/2.cfe63f6f.chunk.js.map": "/GreenHouseReact/static/js/2.cfe63f6f.chunk.js.map",
+    "index.html": "/GreenHouseReact/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/GreenHouseReact/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.cfe63f6f.chunk.js.LICENSE.txt": "/GreenHouseReact/static/js/2.cfe63f6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac654c7c.js",
+    "static/js/2.cfe63f6f.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.f3daef8b.chunk.js"
+  ]
+}
