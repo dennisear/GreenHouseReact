@@ -1,0 +1,23 @@
+body, html{
+    margin: 0%;
+    padding: 0%;
+}
+.banner img{
+    margin-top: 0.2%;
+    height: 180px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: 10px solid white;
+}
+.objetivos{
+    background-color: #A9D18E;
+    text-align: center;
+    font-size: 100%;
+    color: black;
+    margin-top: 2%;
+    padding-bottom: 4%;
+    padding-top: 3%;
+    text-decoration: none;
+}
