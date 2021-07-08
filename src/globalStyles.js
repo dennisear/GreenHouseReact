@@ -10,7 +10,6 @@ const GlobalStyles=createGlobalStyle`
     justify-content: space-between;
 }
 .headerMenu{
-    width: 100%;
     background: #C4C4C4;
     border:2px solid #A7AA0B;  
 }
