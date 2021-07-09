@@ -10,6 +10,7 @@ const GlobalStyles=createGlobalStyle`
     justify-content: space-between;
 }
 .headerMenu{
+    width: 99,9%;
     background: #C4C4C4;
     border:2px solid #A7AA0B;  
 }
@@ -26,7 +27,7 @@ const GlobalStyles=createGlobalStyle`
 }
 .menu ul{
     font-family: "Edmondsans";
-    margin: 0;
+    margin: 0%;
     list-style: none;
     padding: 15px 20px;
     display: flex;
@@ -72,4 +73,5 @@ const GlobalStyles=createGlobalStyle`
 } 
 
 `;
+
 export default GlobalStyles;
