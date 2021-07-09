@@ -4,13 +4,14 @@ import logo from '../utils/images/logo.png'
 import ig from '../utils/images/ig.PNG'
 import yb from '../utils/images/yb.PNG'
 import men from '../utils/images/men.PNG'
+import Barra from '../utils/images/bannerAS.png'
 
 const Header = () => {
     return (
         <div className="container">
             <header className="header">
                 <div className="logo"> <img src={logo} alt="Logo"/> </div>
-                <div className="socialmedia">  <img src={ig} alt="Instagram"/>  <img src={yb} alt="YouTube"/> </div>
+                <div className="socialmedia">  <a href='https://www.instagram.com/greenhousevv/'><img src={ig} alt="Instagram"/></a>  <a href="https://www.youtube.com/channel/UCgTnRFSlSKSRG92X7ZNoPew"><img src={yb} alt="YouTube"/></a> </div>
             </header>
             <div className="headerMenu">
                 <input type="checkbox" id="btn-menu" />
@@ -19,16 +20,18 @@ const Header = () => {
                     <ul>
                         <li> INICIO</li>
                         <li> PLANTAS</li>
+                        <li> ÁRBOLES</li>
                         <Link to='/'>
-                           <li> ÁRBOLES</li>
+                           <li> ASESORÍAS</li>
                         </Link>                        
-                        <li> ASESORÍAS</li>
                         <Link to='/AboutUs'>
                            <li> ¿QUIÉNES SOMOS?</li>
                         </Link>
                     </ul>
                 </nav>
             </div>
+            <div className="banner">
+            <img id="Barra" src={Barra} alt="Cargando..."/></div>
       </div>
     )
 }
