@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/GreenHouseReact/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/GreenHouseReact/static/js/main.938ec3d5.chunk.js",
-    "main.js.map": "/GreenHouseReact/static/js/main.938ec3d5.chunk.js.map",
+    "main.css": "/GreenHouseReact/static/css/main.160571bf.chunk.css",
+    "main.js": "/GreenHouseReact/static/js/main.7e30988c.chunk.js",
+    "main.js.map": "/GreenHouseReact/static/js/main.7e30988c.chunk.js.map",
     "runtime-main.js": "/GreenHouseReact/static/js/runtime-main.ac654c7c.js",
     "runtime-main.js.map": "/GreenHouseReact/static/js/runtime-main.ac654c7c.js.map",
-    "static/js/2.1223cb22.chunk.js": "/GreenHouseReact/static/js/2.1223cb22.chunk.js",
-    "static/js/2.1223cb22.chunk.js.map": "/GreenHouseReact/static/js/2.1223cb22.chunk.js.map",
+    "static/js/2.7ee6a40d.chunk.js": "/GreenHouseReact/static/js/2.7ee6a40d.chunk.js",
+    "static/js/2.7ee6a40d.chunk.js.map": "/GreenHouseReact/static/js/2.7ee6a40d.chunk.js.map",
     "index.html": "/GreenHouseReact/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/GreenHouseReact/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.1223cb22.chunk.js.LICENSE.txt": "/GreenHouseReact/static/js/2.1223cb22.chunk.js.LICENSE.txt",
+    "static/css/main.160571bf.chunk.css.map": "/GreenHouseReact/static/css/main.160571bf.chunk.css.map",
+    "static/js/2.7ee6a40d.chunk.js.LICENSE.txt": "/GreenHouseReact/static/js/2.7ee6a40d.chunk.js.LICENSE.txt",
+    "static/media/asesor.4268973d.jpg": "/GreenHouseReact/static/media/asesor.4268973d.jpg",
+    "static/media/asesora.8e71e206.jpg": "/GreenHouseReact/static/media/asesora.8e71e206.jpg",
+    "static/media/bannerAS.1f8bcf85.png": "/GreenHouseReact/static/media/bannerAS.1f8bcf85.png",
     "static/media/ig.4cd32424.PNG": "/GreenHouseReact/static/media/ig.4cd32424.PNG",
     "static/media/men.23dbb69b.PNG": "/GreenHouseReact/static/media/men.23dbb69b.PNG",
+    "static/media/otrasesora.dea10456.jpg": "/GreenHouseReact/static/media/otrasesora.dea10456.jpg",
+    "static/media/user1.fa9ece26.png": "/GreenHouseReact/static/media/user1.fa9ece26.png",
+    "static/media/user2.abf9ecf1.jpg": "/GreenHouseReact/static/media/user2.abf9ecf1.jpg",
+    "static/media/user2.eb80d0ff.png": "/GreenHouseReact/static/media/user2.eb80d0ff.png",
     "static/media/yb.8a26397b.PNG": "/GreenHouseReact/static/media/yb.8a26397b.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.ac654c7c.js",
-    "static/js/2.1223cb22.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.938ec3d5.chunk.js"
+    "static/js/2.7ee6a40d.chunk.js",
+    "static/css/main.160571bf.chunk.css",
+    "static/js/main.7e30988c.chunk.js"
   ]
 }
